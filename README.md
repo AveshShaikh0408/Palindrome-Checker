@@ -1,2 +1,4 @@
 # Palindrome-Checker
-check live here ->(Check live preview here)[https://861je.csb.app/] 
+
+* [Click here, to see Live Preview](https://861je.csb.app/) (Open in Chrome for Best View)
+

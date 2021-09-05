@@ -1,2 +1,2 @@
 # Palindrome-Checker
-Created with CodeSandbox
+check live here ->(Check live preview here)[https://861je.csb.app/] 
